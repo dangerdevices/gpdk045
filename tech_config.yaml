@@ -1,0 +1,18 @@
+# the Technology class.
+# class: "templates_gpdk045.tech.TechInfoGPDK045"
+
+# layout related parameters
+layout:
+  # default EM spec calculation settings
+  em:
+    # DC current temperature
+    dc_temp: !!int 70
+    # RMS current allowable temperature increase
+    rms_dt: !!int 10
+
+# transistor technology parameters
+mos:
+  # the transistor width minimum resolution.
+  width_resolution: !!float 5e-9
+  # the transistor length minimum resolution.
+  length_resolution: !!float 5e-9
