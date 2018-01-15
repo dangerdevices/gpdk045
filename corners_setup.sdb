@@ -18,7 +18,7 @@
 					<model enabled="1">gpdk045.scs
 						<modeltest>All</modeltest>
 						<modelblock>Global</modelblock>
-						<modelfile>/tools/projects/erichang/teaching/ee240b/bag_workspace_gpdk045/models/spectre/gpdk045.scs</modelfile>
+						<modelfile>/home/ff/ee240b/sp18/gpdk/gpdk045_v_5_0/models/spectre/gpdk045.scs</modelfile>
 						<modelsection>"tt"</modelsection>
 					</model>
 				</models>
@@ -33,7 +33,7 @@
 					<model enabled="1">gpdk045.scs
 						<modeltest>All</modeltest>
 						<modelblock>Global</modelblock>
-						<modelfile>/tools/projects/erichang/teaching/ee240b/bag_workspace_gpdk045/models/spectre/gpdk045.scs</modelfile>
+						<modelfile>/home/ff/ee240b/sp18/gpdk/gpdk045_v_5_0/models/spectre/gpdk045.scs</modelfile>
 						<modelsection>"ff"</modelsection>
 					</model>
 				</models>
@@ -48,7 +48,7 @@
 					<model enabled="1">gpdk045.scs
 						<modeltest>All</modeltest>
 						<modelblock>Global</modelblock>
-						<modelfile>/tools/projects/erichang/teaching/ee240b/bag_workspace_gpdk045/models/spectre/gpdk045.scs</modelfile>
+						<modelfile>/home/ff/ee240b/sp18/gpdk/gpdk045_v_5_0/models/spectre/gpdk045.scs</modelfile>
 						<modelsection>"ss"</modelsection>
 					</model>
 				</models>
@@ -63,7 +63,7 @@
 					<model enabled="1">gpdk045.scs
 						<modeltest>All</modeltest>
 						<modelblock>Global</modelblock>
-						<modelfile>/tools/projects/erichang/teaching/ee240b/bag_workspace_gpdk045/models/spectre/gpdk045.scs</modelfile>
+						<modelfile>/home/ff/ee240b/sp18/gpdk/gpdk045_v_5_0/models/spectre/gpdk045.scs</modelfile>
 						<modelsection>"sf"</modelsection>
 					</model>
 				</models>
@@ -78,7 +78,7 @@
 					<model enabled="1">gpdk045.scs
 						<modeltest>All</modeltest>
 						<modelblock>Global</modelblock>
-						<modelfile>/tools/projects/erichang/teaching/ee240b/bag_workspace_gpdk045/models/spectre/gpdk045.scs</modelfile>
+						<modelfile>/home/ff/ee240b/sp18/gpdk/gpdk045_v_5_0/models/spectre/gpdk045.scs</modelfile>
 						<modelsection>"fs"</modelsection>
 					</model>
 				</models>
