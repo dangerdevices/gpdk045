@@ -1,7 +1,7 @@
 #cadence base libraries
-DEFINE     analogLib    $CDSHOME/tools/dfII/etc/cdslib/artist/analogLib
-DEFINE     basic        $CDSHOME/tools/dfII/etc/cdslib/basic
-
+DEFINE     analogLib $CDSHOME/tools/dfII/etc/cdslib/artist/analogLib
+DEFINE     basic     $CDSHOME/tools/dfII/etc/cdslib/basic
+DEFINE     avTech    $ASSURAHOME/tools/assura/etc/avtech/avTech   
 #technology base libraries
 DEFINE     gpdk045   $BAG_TECH_CONFIG_DIR/workspace_setup/PDK/gpdk045
 
